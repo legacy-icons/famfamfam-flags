@@ -11,9 +11,12 @@ All credits for these icons go to their original author: mjames@gmail.com
 
 The aim of this project is to make this icon pack available through various package managers, such as:
 
-- [NPM](npmjs.org)
+- [NPM](https://npmjs.org)
 - [Bower](http://bower.io)
 - [Packagist](https://packagist.org)
+
+
+All icons are supplied in both PNG and GIF formats.
 
 
 
@@ -34,8 +37,34 @@ Contact: mjames@gmail.com
 
 
 
-All except the icons
+About the rest (all this repository but the icons)
 ----------
 
-All the work in this repository (excepted the icon pack) 
+All the content of this repository (excepted the icon pack) 
 is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+Though, it is just composed a few trivial json files and a Readme.
+
+
+Get the package
+----------
+
+**NPM**
+
+[famfamfam-flags on NPM](https://www.npmjs.org/package/famfamfam-flags)
+
+Get it with:
+
+```
+npm install famfamfam-flag
+```
+
+
+**Bower**
+
+Get it with:
+
+```
+bower install famfamfam-flag
+```
+

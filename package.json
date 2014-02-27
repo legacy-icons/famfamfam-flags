@@ -1,0 +1,31 @@
+{
+  "name": "famfamfam-flags",
+	"version": "0.1.0",
+	"homepage": "https://github.com/kwipi/famfamfam-flags",
+	"description": "FamFamFam Flags icon pack",
+	"keywords": [
+		"icon",
+		"flag",
+		"img",
+		"famfamfam",
+		"png",
+		"gif"
+	],
+	"license": "MIT",
+  "author": "Kwipi",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kwipi/famfamfam-flags.git"
+  },
+	"bugs": {
+    "url": "https://github.com/kwipi/famfamfam-flags/issues"
+  },
+	"files": [
+		"img"
+	],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+	"dependencies": {},
+  "devDependencies": {}
+}

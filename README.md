@@ -34,3 +34,8 @@ Contact: mjames@gmail.com
 
 
 
+All except the icons
+----------
+
+All the work in this repository (excepted the icon pack) 
+is licensed under the [MIT license](http://opensource.org/licenses/MIT).

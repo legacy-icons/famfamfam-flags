@@ -68,3 +68,6 @@ Get it with:
 bower install famfamfam-flag
 ```
 
+**Composer / Packagist**
+
+[famfamfam-flags on Packagist](https://packagist.org/packages/kwipi/famfamfam-flags)

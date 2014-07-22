@@ -1,5 +1,5 @@
 {
-  "name": "kwipi/famfamfam-flags",
+	"name": "kwipi/famfamfam-flags",
 	"version": "0.1.1",
 	"homepage": "https://github.com/kwipi/famfamfam-flags",
 	"description": "FamFamFam Flags icon pack",
@@ -12,7 +12,7 @@
 		"gif"
 	],
 	"license": "MIT",
-  "authors": [
+  	"authors": [
 		{
 			"name": "Kwipi",
 			"email": "contact@kwipi.org",
@@ -23,5 +23,12 @@
 	"support": {
 		"issues": "https://github.com/kwipi/famfamfam-flags/issues/"
 	},
-	"type": "library"
+	"type": "library",
+	"extra": {
+		"component": {
+			"files": [
+				"img/*"
+			]
+		}
+	}
 }

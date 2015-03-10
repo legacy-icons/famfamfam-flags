@@ -56,7 +56,7 @@ Get the package
 Get it with:
 
 ```
-npm install famfamfam-flag
+npm install famfamfam-flags
 ```
 
 
@@ -65,7 +65,7 @@ npm install famfamfam-flag
 Get it with:
 
 ```
-bower install famfamfam-flag
+bower install famfamfam-flags
 ```
 
 **Composer / Packagist**

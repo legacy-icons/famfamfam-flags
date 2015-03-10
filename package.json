@@ -21,7 +21,7 @@
     "url": "https://github.com/T1st3/famfamfam-flags/issues"
   },
   "files": [
-    "./img"
+    "./img/*"
   ],
   "engines": {
     "node": ">= 0.10.0"

@@ -1,33 +1,34 @@
 {
-	"name": "kwipi/famfamfam-flags",
-	"homepage": "https://github.com/kwipi/famfamfam-flags",
-	"description": "FamFamFam Flags icon pack",
-	"keywords": [
-		"icon",
-		"flag",
-		"img",
-		"famfamfam",
-		"png",
-		"gif"
-	],
-	"license": "MIT",
-  	"authors": [
-		{
-			"name": "Kwipi",
-			"email": "contact@kwipi.org",
-			"homepage": "http://www.kwipi.org/",
-			"role": "Maintainer"
-		}
-	],
-	"support": {
-		"issues": "https://github.com/kwipi/famfamfam-flags/issues/"
-	},
-	"type": "library",
-	"extra": {
-		"component": {
-			"files": [
-				"img/*"
-			]
-		}
-	}
+  "name": "t1st3/famfamfam-flags",
+  "version": "0.2.0",
+  "homepage": "https://github.com/T1st3/famfamfam-flags",
+  "description": "FamFamFam Flags icon pack",
+  "keywords": [
+    "icon",
+    "flag",
+    "img",
+    "famfamfam",
+    "png",
+    "gif"
+  ],
+  "license": "MIT",
+    "authors": [
+    {
+      "name": "T1st3",
+      "email": "contact@tiste.org",
+      "homepage": "http://www.tiste.org/",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/T1st3/famfamfam-flags/issues/"
+  },
+  "type": "library",
+  "extra": {
+    "component": {
+      "files": [
+        "img/*"
+      ]
+    }
+  }
 }

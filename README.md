@@ -70,4 +70,4 @@ bower install famfamfam-flag
 
 **Composer / Packagist**
 
-[famfamfam-flags on Packagist](https://packagist.org/packages/kwipi/famfamfam-flags)
+[famfamfam-flags on Packagist](https://packagist.org/packages/t1st3/famfamfam-flags)

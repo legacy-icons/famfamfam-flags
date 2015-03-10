@@ -16,7 +16,7 @@
     "t1st3 <contact@tiste.org> (http://www.tiste.org/)"
   ],
   "main": [
-    "./img"
+    "img"
   ],
   "ignore": [
     "bower_components",

@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+- '0.10'
+before_install:
+- npm install -g gulp
+deploy:
+  provider: npm
+  email: contact@tiste.org
+  api_key:
+    secure: bKR6NnD1rHpZlsBPOH72XqUX/0bM/7DjlUszWpIe9hBnKgPHkKl763aDcoahnouT/Un8lYLSG7B39A8A8nWLgM/7bFsxrh3fl22shOP9XOKgA62vYm+SLrlvF0EjJP8vHC+Mtv3MI9KxBTubCGAZw+X7oyb1a153uCo8Ik/ADWs=
+  on:
+    tags: true
+    repo: T1st3/famfamfam-flags

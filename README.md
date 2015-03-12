@@ -2,9 +2,9 @@ famfamfam-flags
 ===============
 
 
-[![Downloads on NPM](https://img.shields.io/npm/dm/famfamfam-flags.svg)](https://www.npmjs.org/package/famfamfam-flags)
-[![Downloads on Bower](https://img.shields.io/bower/dm/famfamfam-flags.svg)](http://bower.io/search/?q=famfamfam-flags)
-[![Downloads on Packagist](https://img.shields.io/packagist/dm/famfamfam-flagsd.svg)](https://packagist.org/packages/t1st3/famfamfam-flags)
+[![NPM version](https://img.shields.io/npm/v/famfamfam-flags.svg)](https://www.npmjs.org/package/famfamfam-flags)
+[![Bower version](https://img.shields.io/bower/v/famfamfam-flags.svg)](http://bower.io/search/?q=famfamfam-flags)
+[![Packagist version](https://img.shields.io/packagist/v/t1st3/famfamfam-flags.svg)](https://packagist.org/packages/t1st3/famfamfam-flags)
 
 About
 ----------

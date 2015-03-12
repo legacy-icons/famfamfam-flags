@@ -2,6 +2,10 @@ famfamfam-flags
 ===============
 
 
+[![Downloads on NPM](https://img.shields.io/npm/dm/generator-t1st3-umd.svg)](https://www.npmjs.org/package/famfamfam-flags)
+[![Downloads on Bower](https://img.shields.io/bower/dm/generator-t1st3-umd.svg)](http://bower.io/search/?q=famfamfam-flags)
+[![Downloads on Packagist](https://img.shields.io/packagist/dm/generator-t1st3-umd.svg)](https://packagist.org/packages/t1st3/famfamfam-flags)
+
 About
 ----------
 
@@ -51,7 +55,7 @@ Get the package
 
 **NPM**
 
-[famfamfam-flags on NPM](https://www.npmjs.org/package/famfamfam-flags)
+[![NPM version](https://img.shields.io/npm/v/generator-t1st3-umd.svg)](https://www.npmjs.org/package/famfamfam-flags)
 
 Get it with:
 
@@ -61,6 +65,8 @@ npm install famfamfam-flags
 
 
 **Bower**
+
+[![Bower version](https://img.shields.io/bower/v/generator-t1st3-umd.svg)](http://bower.io/search/?q=famfamfam-flags)
 
 Get it with:
 

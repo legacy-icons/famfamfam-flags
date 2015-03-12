@@ -55,8 +55,6 @@ Get the package
 
 **NPM**
 
-[![NPM version](https://img.shields.io/npm/v/famfamfam-flags.svg)](https://www.npmjs.org/package/famfamfam-flags)
-
 Get it with:
 
 ```
@@ -65,8 +63,6 @@ npm install famfamfam-flags
 
 
 **Bower**
-
-[![Bower version](https://img.shields.io/bower/v/famfamfam-flags.svg)](http://bower.io/search/?q=famfamfam-flags)
 
 Get it with:
 

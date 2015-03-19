@@ -28,9 +28,22 @@ All icons are supplied in both PNG and GIF formats.
 CSS spritesheets
 ----------
 
+You can insert the icons directly into your HTML with a common IMG tag:
+
+```
+    <img alt="French Flag" src="dist/png/fr.png" width="16" height="11">
+```
+
+
 In addition to the icons by themselves, this project also ships a CSS spritesheet for the icon-pack. Those spritesheet allows to load the entire icon-pack in just 1 image, and thus reduce HTTP calls.
 
-All the positioning of the icons inside this alone image is made through CSS.
+All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
+
+```
+    <div class="famfamfam-flags fr"></div>
+```
+
+
 
 
 

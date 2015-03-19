@@ -35,7 +35,7 @@ You can insert the icons directly into your HTML with a common IMG tag:
 ```
 
 
-In addition to the icons by themselves, this project also ships a CSS spritesheet for the icon-pack. Those spritesheet allows to load the entire icon-pack in just 1 image, and thus reduce HTTP calls.
+In addition to the icons by themselves, this project also ships a CSS spritesheet for the icon-pack. This spritesheet allows to load the entire icon-pack in just 1 image, and thus reduce HTTP calls.
 
 All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
 

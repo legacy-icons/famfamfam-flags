@@ -96,3 +96,13 @@ bower install famfamfam-flags
 **Composer / Packagist**
 
 [famfamfam-flags on Packagist](https://packagist.org/packages/t1st3/famfamfam-flags)
+
+
+
+
+
+Dev dependencies (NPM)
+----------
+
+
+[![Dependency Status](https://img.shields.io/david/dev/T1st3/famfamfam-flags.svg)](https://david-dm.org/t1st3/famfamfam-flags)

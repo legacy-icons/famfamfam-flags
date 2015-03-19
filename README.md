@@ -43,7 +43,7 @@ All the positioning of the icons inside this alone image is made through CSS, wh
     <div class="famfamfam-flags fr"></div>
 ```
 
-
+Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 
 

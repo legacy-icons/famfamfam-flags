@@ -101,8 +101,11 @@ bower install famfamfam-flags
 
 
 
-Dev dependencies (NPM)
+Dev dependencies and build status
 ----------
 
-
 [![Dependency Status](https://img.shields.io/david/dev/T1st3/famfamfam-flags.svg)](https://david-dm.org/t1st3/famfamfam-flags)
+[![Build Status](https://img.shields.io/travis/T1st3/famfamfam-flags.svg)](https://travis-ci.org/T1st3/famfamfam-flags)
+
+
+

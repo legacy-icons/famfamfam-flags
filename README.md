@@ -25,6 +25,14 @@ The aim of this project is to make this icon pack available through various pack
 All icons are supplied in both PNG and GIF formats.
 
 
+CSS spritesheets
+----------
+
+In addition to the icons by themselves, this project also ships a CSS spritesheet for the icon-pack. Those spritesheet allows to load the entire icon-pack in just 1 image, and thus reduce HTTP calls.
+
+All the positioning of the icons inside this alone image is made through CSS.
+
+
 
 Original readme (from author of the icons)
 ----------

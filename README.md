@@ -13,7 +13,7 @@ About
 
 The `Flags` icon pack, as available on [famfamfam website](http://www.famfamfam.com/lab/icons/flags/).
 
-All credits for these icons go to their original author: mjames@gmail.com
+All credits for these icons go to their original author: Mark James (mjames@gmail.com)
 
 The aim of this project is to make this icon pack available through various package managers, such as:
 
@@ -23,6 +23,18 @@ The aim of this project is to make this icon pack available through various pack
 
 
 All icons are supplied in both PNG and GIF formats.
+
+
+
+
+Extension
+----------
+
+Note that 1 flag has been added to the original package: `gg.png` (or `gg.gif`).
+
+This flag was created by Damien Guard (damieng@gmail.com), in the "add-on" package for FamFamFam icons named [Silk Companion](http://www.damieng.com/icons/silkcompanion).
+
+
 
 
 CSS spritesheets
@@ -61,6 +73,43 @@ If you find these icons useful, please donate via paypal to mjames@gmail.com
 (or click the donate button available at [http://www.famfamfam.com/lab/icons/silk](http://www.famfamfam.com/lab/icons/silk))
 
 Contact: mjames@gmail.com
+
+
+
+Original readme (from the author of the extension "Silk Companion")
+----------
+
+Silk companion icon set #1 - "More Silk!"
+Last updated: 19 November 2007
+
+_________________________________________
+Damien Guard
+http://www.damieng.com/icons/silkcompanion
+_________________________________________
+
+This work is licensed under a
+Creative Commons Attribution 2.5 License.
+[ http://creativecommons.org/licenses/by/2.5/ ]
+
+The FamFamFam Silk icon set is a very large,
+consistent set of well-drawn icons that has
+proven to be popular with both applications
+and web sites.
+
+On a number of occasions I have found myself
+wanting more icons in the same style. This 
+companion set represents what I needed but also
+what I felt like adding.
+
+Some are new icons in the same style, some are
+alternative sizes/colours of the existing icons
+and some are new compositions of the elements.
+
+Any questions about this companion set please
+contact damieng@gmail.com.
+
+
+
 
 
 

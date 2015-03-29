@@ -196,7 +196,7 @@ First, it takes PNG and GIF files from the `src` folder, and tidies them to the 
 Then it creates a spritesheet from the PNG images located in the `src` folder, and thus creates the `sprite` folder in `dist`.
 
 If, for example you just want `fr` and `gg` icons in a spritesheet, you just have to fork this project, point your CLI to the working directory, 
-empty the `src` directory, except fr and gg icons in PNG format, and then run the `gulp build` task.
+empty the `src` directory, except `fr` and `gg` icons in PNG format, and then run the `gulp build` task.
 
 You'll get the proper spritesheet and copies of the icons directly in the `dist` folder.
 

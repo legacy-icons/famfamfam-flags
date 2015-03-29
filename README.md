@@ -163,3 +163,44 @@ is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 Though, it is just composed a few trivial json files and a Readme.
 
+
+
+
+Build (the whole project or your custom project)
+----------
+
+
+We use [Gulp](http://gulpjs.com/) to build the project, so if you want to re-build or customize this project, you'll nedd Gulp.
+
+After gulp is installed, and your CLI is pointed to your work directory, first install the dependencies:
+
+```
+     npm install
+```
+
+
+then, you can run the `gulp build` task to build the project:
+
+
+```
+     gulp build
+```
+
+
+
+
+**What the build task does?**
+
+First, it takes PNG and GIF files from the `src` folder, and tidies them to the `dist` folder.
+
+Then it creates a spritesheet from the PNG images located in the `src` folder, and thus creates the `sprite` folder in `dist`.
+
+If, for example you just want `fr` and `gg` icons in a spritesheet, you just have to fork this project, point your CLI to the working directory, 
+empty the `src` directory, except fr and gg icons in PNG format, and then run the `gulp build` task.
+
+You'll get the proper spritesheet and copies of the icons directly in the `dist folder.
+
+
+
+
+

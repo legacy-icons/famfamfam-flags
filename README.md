@@ -89,7 +89,7 @@ Last updated: 19 November 2007
 
 _________________________________________
 Damien Guard
-http://www.damieng.com/icons/silkcompanion
+http://damieng.com/creative/icons/silk-companion-1-icons
 _________________________________________
 
 This work is licensed under a

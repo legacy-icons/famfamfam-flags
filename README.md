@@ -32,7 +32,7 @@ Extension
 
 Note that 1 flag has been added to the original package: `gg.png` (or `gg.gif`).
 
-This flag was created by Damien Guard (damieng@gmail.com), in the "add-on" package for FamFamFam icons named [Silk Companion](http://www.damieng.com/icons/silkcompanion).
+This flag was created by Damien Guard (damieng@gmail.com), in the "add-on" package for FamFamFam icons named [Silk Companion](http://damieng.com/creative/icons/silk-companion-1-icons).
 
 
 
@@ -125,6 +125,9 @@ All the content of this repository (excepted the icon pack)
 is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 Though, it is just composed a few trivial json files and a Readme.
+
+
+
 
 
 Get the package

@@ -31,12 +31,15 @@ All icons are supplied in both PNG and GIF formats.
 
 
 
-Extension
+Extensions and updates
 ----------
 
-Note that 1 flag has been added to the original package: `gg.png` (or `gg.gif`).
+A flag has been added to the original package: `gg.png` (or `gg.gif`).
+This flag was created by [https://github.com/damieng](Damien Guard) (damieng@gmail.com), in the "add-on" package for FamFamFam icons named [Silk Companion](http://damieng.com/creative/icons/silk-companion-1-icons).
 
-This flag was created by Damien Guard (damieng@gmail.com), in the "add-on" package for FamFamFam icons named [Silk Companion](http://damieng.com/creative/icons/silk-companion-1-icons).
+
+The flag for Myanmar has been updated: `mm.png` (or `mm.gif`).
+This flag was updated by [https://github.com/lucas34](Lucas), and was created from [https://commons.wikimedia.org/wiki/File:Flag_of_Myanmar-new.jpg](Wikipedia).
 
 
 
@@ -98,6 +101,42 @@ Get the package with Packagist
 
 
 
+Build (the whole project or your custom project)
+----------
+
+
+We use [Gulp](http://gulpjs.com/) to build the project, so if you want to re-build or customize this project, you'll need Gulp.
+
+After gulp is installed, and your CLI is pointed to your work directory, first install the dependencies:
+
+```
+     npm install
+```
+
+
+then, you can run the `gulp build` task to build the project:
+
+
+```
+     gulp build
+```
+
+
+
+
+**What the build task does?**
+
+First, it takes PNG and GIF files from the `src` folder, and tidies them to the `dist` folder.
+
+Then it creates a spritesheet from the PNG images located in the `src` folder, and thus creates the `sprite` folder in `dist`.
+
+If, for example you just want `fr` and `gg` icons in a spritesheet, you just have to fork this project, point your CLI to the working directory, 
+empty the `src` directory, except `fr` and `gg` icons in PNG format, and then run the `gulp build` task.
+
+You'll get the proper spritesheet and copies of the icons directly in the `dist` folder.
+
+
+
 
 
 
@@ -153,6 +192,15 @@ contact damieng@gmail.com.
 
 
 
+License for the flag of Myanmar
+----------
+
+[https://commons.wikimedia.org/wiki/File:Flag_of_Myanmar-new.jpg](Original flag license):
+
+The copyright holder of this work allows anyone to use it for any purpose including unrestricted redistribution, commercial use, and modification.
+
+
+
 
 
 About the rest (all this repository but the icons)
@@ -164,41 +212,6 @@ is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 Though, it is just composed a few trivial json files and a Readme.
 
 
-
-
-Build (the whole project or your custom project)
-----------
-
-
-We use [Gulp](http://gulpjs.com/) to build the project, so if you want to re-build or customize this project, you'll need Gulp.
-
-After gulp is installed, and your CLI is pointed to your work directory, first install the dependencies:
-
-```
-     npm install
-```
-
-
-then, you can run the `gulp build` task to build the project:
-
-
-```
-     gulp build
-```
-
-
-
-
-**What the build task does?**
-
-First, it takes PNG and GIF files from the `src` folder, and tidies them to the `dist` folder.
-
-Then it creates a spritesheet from the PNG images located in the `src` folder, and thus creates the `sprite` folder in `dist`.
-
-If, for example you just want `fr` and `gg` icons in a spritesheet, you just have to fork this project, point your CLI to the working directory, 
-empty the `src` directory, except `fr` and `gg` icons in PNG format, and then run the `gulp build` task.
-
-You'll get the proper spritesheet and copies of the icons directly in the `dist` folder.
 
 
 

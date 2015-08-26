@@ -35,11 +35,11 @@ Extensions and updates
 ----------
 
 A flag has been added to the original package: `gg.png` (or `gg.gif`).
-This flag was created by [https://github.com/damieng](Damien Guard) (damieng@gmail.com), in the "add-on" package for FamFamFam icons named [Silk Companion](http://damieng.com/creative/icons/silk-companion-1-icons).
+This flag was created by [Damien Guard](https://github.com/damieng) (damieng@gmail.com), in the "add-on" package for FamFamFam icons named [Silk Companion](http://damieng.com/creative/icons/silk-companion-1-icons).
 
 
 The flag for Myanmar has been updated: `mm.png` (or `mm.gif`).
-This flag was updated by [https://github.com/lucas34](Lucas), and was created from [https://commons.wikimedia.org/wiki/File:Flag_of_Myanmar-new.jpg](Wikipedia).
+This flag was updated by [Lucas](https://github.com/lucas34), and was created from [Wikipedia](https://commons.wikimedia.org/wiki/File:Flag_of_Myanmar-new.jpg).
 
 
 

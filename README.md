@@ -5,7 +5,7 @@ famfamfam-flags
 [![NPM version](https://img.shields.io/npm/v/famfamfam-flags.svg)](https://www.npmjs.org/package/famfamfam-flags)
 [![Bower version](https://img.shields.io/bower/v/famfamfam-flags.svg)](http://bower.io/search/?q=famfamfam-flags)
 [![Packagist version](https://img.shields.io/packagist/v/t1st3/famfamfam-flags.svg)](https://packagist.org/packages/t1st3/famfamfam-flags)
-
+[![Nuget version](https://img.shields.io/nuget/v/famfamfam-flags.svg)](https://www.nuget.org/packages/famfamfam-flags/)
 
 [![Dependency Status](https://img.shields.io/david/dev/T1st3/famfamfam-flags.svg)](https://david-dm.org/t1st3/famfamfam-flags)
 [![Build Status](https://img.shields.io/travis/T1st3/famfamfam-flags.svg)](https://travis-ci.org/T1st3/famfamfam-flags)
@@ -24,6 +24,7 @@ The aim of this project is to make this icon pack available through various pack
 - [NPM](https://npmjs.org)
 - [Bower](http://bower.io)
 - [Packagist](https://packagist.org)
+- [NuGet](https://www.nuget.org)
 
 
 All icons are supplied in both PNG and GIF formats.
@@ -92,11 +93,24 @@ bower install famfamfam-flags
 ```
 
 
-Get the package with Packagist
+Get the package with Composer / Packagist
 ----------
 
-[famfamfam-flags on Packagist](https://packagist.org/packages/t1st3/famfamfam-flags)
+Just run the following on the CLI (provided your CLI is directed to your work directory)
 
+```
+composer require t1st3/famfamfam-flags
+```
+
+
+Get the package with NuGet
+----------
+
+Just run the following on the CLI (provided your CLI is directed to your work directory)
+
+```
+Install-Package famfamfam-flags
+```
 
 
 

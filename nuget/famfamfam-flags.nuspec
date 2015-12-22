@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>famfamfam-flags</id>
+    <version>0.3</version>
+    <title>Famfamfam-Flags</title>
+    <authors>T1st3</authors>
+    <owners>t1st3</owners>
+    <description>Famfamfam-Flags, made available in various package managers, shipped with CSS spritesheet</description>
+    <releaseNotes>https://github.com/T1st3/famfamfam-flags/releases</releaseNotes>
+    <summary>Famfamfam-Flags</summary>
+    <language>en-us</language>
+    <projectUrl>https://github.com/T1st3/famfamfam-flags</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/T1st3/famfamfam-flags/master/dist/sprite/famfamfam-flags.png</iconUrl>
+    <licenseUrl>https://github.com/T1st3/famfamfam-flags#original-readme-from-author-of-the-icons</licenseUrl>
+    <copyright>Copyright 2015</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+    </dependencies>
+    <tags>famfamfam flags gif png icons spritesheet css</tags>
+  </metadata>
+  <files>
+    <file src="dist\gif\*.*" target="content\Content\gif" />
+    <file src="dist\png\*.*" target="content\Content\png" />
+    <file src="dist\sprite\*.*" target="content\Content\sprite" />
+  </files>
+</package>

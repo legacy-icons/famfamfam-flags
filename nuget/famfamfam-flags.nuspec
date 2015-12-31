@@ -12,7 +12,7 @@
     <language>en-us</language>
     <projectUrl>https://github.com/T1st3/famfamfam-flags</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/T1st3/famfamfam-flags/master/dist/sprite/famfamfam-flags.png</iconUrl>
-    <licenseUrl>https://github.com/T1st3/famfamfam-flags#original-readme-from-author-of-the-icons</licenseUrl>
+    <licenseUrl>https://github.com/T1st3/famfamfam-flags/blob/master/LICENSE.md</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>

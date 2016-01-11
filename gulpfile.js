@@ -18,9 +18,25 @@ qrcode = require('qrcode-terminal'),
 gulp = require('gulp'),
 imagemin = require('gulp-imagemin'),
 rename = require('gulp-rename'),
+replace = require('gulp-replace'),
 minifyCSS = require('gulp-minify-css'),
 spriteBuilder = require( 'node-spritesheet' ).Builder,
 notify = require('gulp-notify');
+
+var aliases = {
+  map: require(path.join(__dirname, 'aliases.json')),
+
+  buildRegExp: function() {
+    return new RegExp('(\\.' + pkg.name + '\\.)(' + Object.keys(aliases.map).join('|') + ')', 'gm');
+  },
+
+  getReplacement: function($0, $prefix, $flag) {
+    if (!aliases.map[$flag]) {
+      return $0;
+    }
+    return $prefix + aliases.map[$flag].concat($flag).join(', ' + $prefix);
+  }
+};
 
 function displayCowsay (txt, cb) {
   console.log('\n\n');
@@ -93,6 +109,8 @@ gulp.task('sprite', ['build_clean'], function (cb) {
     });
     builder.build(function() {
       gulp.src('./dist/sprite/' + pkg.name + '.css')
+        .pipe(replace(aliases.buildRegExp(), aliases.getReplacement))
+        .pipe(gulp.dest('./dist/sprite'))
         .pipe(minifyCSS({keepSpecialComments: '*'}))
         .pipe(rename(pkg.name + '.min.css'))
         .pipe(gulp.dest('./dist/sprite'));

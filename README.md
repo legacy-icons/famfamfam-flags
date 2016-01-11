@@ -127,6 +127,7 @@ After gulp is installed, and your CLI is pointed to your work directory, first i
      npm install
 ```
 
+then be sure that you have *[ImageMagick](http://www.imagemagick.org/script/binary-releases.php)* installed for building spritesheet.
 
 then, you can run the `gulp build` task to build the project:
 

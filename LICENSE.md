@@ -52,6 +52,8 @@ contact damieng@gmail.com.
 License for the `mm` (Myanmar) add-on icon
 ----------
 
+Suggested by [@lucas34](https://github.com/lucas34)
+
 [https://commons.wikimedia.org/wiki/File:Flag_of_Myanmar-new.jpg](Original flag license):
 
 The copyright holder of this work allows anyone to use it for any purpose including unrestricted redistribution, commercial use, and modification.

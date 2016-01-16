@@ -1,6 +1,11 @@
 ## Change Log
 
-### upcoming (2016/01/16 19:34 +00:00)
+### upcoming (2016/01/16 19:39 +00:00)
+- [4b872e4](https://github.com/T1st3/famfamfam-flags/commit/4b872e43071bbace63a545be3300d6fbc775349f) chore: rebuild with new aliases (@T1st3)
+- [e067fe5](https://github.com/T1st3/famfamfam-flags/commit/e067fe5c3aa49aff5533478193642fd3aad3a772) fix: add aliases for RE, YT and GP to FR (@T1st3)
+- [72fb1c6](https://github.com/T1st3/famfamfam-flags/commit/72fb1c602a276ce39e10fa75a79f6bb07d5e21e4) fix: remove BL alias (@T1st3)
+- [b7975c8](https://github.com/T1st3/famfamfam-flags/commit/b7975c800a52138269d5eeabc08a6680124b0841) chore: update changelog (@T1st3)
+- [a2afcdd](https://github.com/T1st3/famfamfam-flags/commit/a2afcdd595120e130999fbcdc194ca3f06ebe61d) chore: remove figlets, cowsays and notifications (@T1st3)
 - [#16](https://github.com/t1st3/famfamfam-flags/pull/16) Add mechanism for aliases, use for `BQ`, `BL` & `MF` codes (@Rangoo94)
 - [be74af7](https://github.com/T1st3/famfamfam-flags/commit/be74af77b06f289093c9f553d0bd80b956ad1520) Add mechanism for aliases, use for `BQ`, `BL` & `MF` codes (@Rangoo94)
 - [#12](https://github.com/t1st3/famfamfam-flags/pull/12) Rename Jersey flag from `jersey` to `je` (@Rangoo94)

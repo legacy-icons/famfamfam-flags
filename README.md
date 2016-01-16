@@ -43,6 +43,7 @@ The flag for Myanmar has been updated: `mm.png` (or `mm.gif`).
 This flag was updated by [Lucas](https://github.com/lucas34), and was created from [Wikipedia](https://commons.wikimedia.org/wiki/File:Flag_of_Myanmar-new.jpg).
 
 
+The project now supports aliases in CSS spritesheets (see below). The feature was brought by [Rangoo94](https://github.com/Rangoo94). For example, `RE` ([Reunion](https://en.wikipedia.org/wiki/.re)) is an alias for `FR` ([France](https://en.wikipedia.org/wiki/.fr)), since Reunion shares the same flag as France. To see the aliases, please check the [aliases.json file](https://github.com/T1st3/famfamfam-flags/blob/master/aliases.json).
 
 
 CSS spritesheets

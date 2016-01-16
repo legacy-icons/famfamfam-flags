@@ -1,9 +1,23 @@
 ## Change Log
 
+### upcoming (2016/01/16 19:34 +00:00)
+- [#16](https://github.com/t1st3/famfamfam-flags/pull/16) Add mechanism for aliases, use for `BQ`, `BL` & `MF` codes (@Rangoo94)
+- [be74af7](https://github.com/T1st3/famfamfam-flags/commit/be74af77b06f289093c9f553d0bd80b956ad1520) Add mechanism for aliases, use for `BQ`, `BL` & `MF` codes (@Rangoo94)
+- [#12](https://github.com/t1st3/famfamfam-flags/pull/12) Rename Jersey flag from `jersey` to `je` (@Rangoo94)
+- [50e0d97](https://github.com/T1st3/famfamfam-flags/commit/50e0d9743cd0aee569abf033756e918f84b51136) docs: add lucas34 in License for Myanmar flag (@T1st3)
+- [#11](https://github.com/t1st3/famfamfam-flags/pull/11) Add information about ImageMagick as dependency (@Rangoo94)
+- [d5e68f5](https://github.com/T1st3/famfamfam-flags/commit/d5e68f5dd2d44f4cf7d8d303731282b9098bd046) Rename Jersey flag from `jersey` to `je` (@Rangoo94)
+- [feb1182](https://github.com/T1st3/famfamfam-flags/commit/feb1182c625a4e5751c2fca1002f15c52e739f3b) Add information about ImageMagick as dependency (@Rangoo94)
+- [195cacf](https://github.com/T1st3/famfamfam-flags/commit/195cacf0b406841c465d7ed14d92229c054b2834) chore: add newline at end of config and .md files (@T1st3)
+- [439a811](https://github.com/T1st3/famfamfam-flags/commit/439a8119669048fa04692d0d2f28bab28ebdafdf) docs: move licenses from README to LICENSE.md (@T1st3)
+- [#7](https://github.com/t1st3/famfamfam-flags/pull/7) chore(package): update gulp-minify-css to version 1.2.3 (@T1st3)
+- [144935d](https://github.com/T1st3/famfamfam-flags/commit/144935d3845baa3dec0e2c84f75e02af48368ea3) docs: add CHANGELOG.md (@T1st3)
+- [529b03b](https://github.com/T1st3/famfamfam-flags/commit/529b03bec32a7916ae819c812dd7b40cd2ba83e7) chore(package): update gulp-minify-css to version 1.2.3 (@greenkeeperio-bot)
+
 ### 0.4.1 (2015/12/22 13:03 +00:00)
 - [acd82de](https://github.com/T1st3/famfamfam-flags/commit/acd82de268068bbf932d62459125e201d1f8c873) chore: v0.4.1 (@T1st3)
 - [854cb96](https://github.com/T1st3/famfamfam-flags/commit/854cb96fab33a50fa59c146c29e34289a59670b9) feat: add MyGet deployment files and support for NuGet (@T1st3)
-- [#6](https://github.com/T1st3/famfamfam-flags/pull/6) Update all dependencies 🌴 (@T1st3)
+- [#6](https://github.com/t1st3/famfamfam-flags/pull/6) Update all dependencies 🌴 (@T1st3)
 - [565d94d](https://github.com/T1st3/famfamfam-flags/commit/565d94d245ffeff9bc62a8be0e3eb2deca5f775f) chore(package): update dependencies (@greenkeeperio-bot)
 - [ad56ea1](https://github.com/T1st3/famfamfam-flags/commit/ad56ea1aecbd6499b1be71d20690021869c674b0) chore: fix build task (@T1st3)
 
@@ -18,7 +32,7 @@
 ### 0.3.5 (2015/08/17 13:30 +00:00)
 - [223e6d8](https://github.com/T1st3/famfamfam-flags/commit/223e6d81cd29bf9cc2ea63a65b8e6a6ac5e11762) chore: v0.3.5 (@T1st3)
 - [d282c71](https://github.com/T1st3/famfamfam-flags/commit/d282c71f81535c67e2034fa58b30fd107a1c60ae) fix: update mm flag (Myanmar) (@T1st3)
-- [#3](https://github.com/T1st3/famfamfam-flags/pull/3) Fix Myanmar flag (@lucas34)
+- [#3](https://github.com/t1st3/famfamfam-flags/pull/3) Fix Myanmar flag (@lucas34)
 - [2fc45e2](https://github.com/T1st3/famfamfam-flags/commit/2fc45e2a7791571a9537a25e0174490ce1f4f592) Fix Myanmar flag (@lucas34)
 
 ### 0.3.4 (2015/07/28 00:53 +00:00)
@@ -85,7 +99,7 @@
 
 ### 0.2.0 (2015/03/10 01:50 +00:00)
 - [3b4dd34](https://github.com/T1st3/famfamfam-flags/commit/3b4dd34598bc620f266d7f409479b342100bae83) chore: change owner from kwipi to t1st3; bump to v0.2.0 (@T1st3)
-- [#1](https://github.com/T1st3/famfamfam-flags/pull/1) Added composer "component" syntax (@tagme)
+- [#1](https://github.com/t1st3/famfamfam-flags/pull/1) Added composer "component" syntax (@tagme)
 - [6ab6a93](https://github.com/T1st3/famfamfam-flags/commit/6ab6a9309417824da9b2139a5d6668d1f5a5e0f8) Version information is not needed for composer/packagist to work. Using tags instead (@vworldat)
 - [19ba451](https://github.com/T1st3/famfamfam-flags/commit/19ba451d11f945336ae609e5ac33e42bedad9bfd) Added composer "component" syntax (@vworldat)
 

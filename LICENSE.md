@@ -23,7 +23,7 @@ Silk companion icon set #1 - "More Silk!"
 Last updated: 19 November 2007
 
 _________________________________________
-Damien Guard
+Damien Guard (@damieng)
 http://damieng.com/creative/icons/silk-companion-1-icons
 _________________________________________
 

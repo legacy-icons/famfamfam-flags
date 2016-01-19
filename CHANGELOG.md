@@ -1,6 +1,13 @@
 ## Change Log
 
-### upcoming (2016/01/16 19:39 +00:00)
+### 0.5.0 (2016/01/19 13:39 +00:00)
+- [1b856d2](https://github.com/T1st3/famfamfam-flags/commit/1b856d20da3c2b891130560ffc3427eecdd1384f) chore: v0.5.0 (@T1st3)
+- [323a768](https://github.com/T1st3/famfamfam-flags/commit/323a7686b4346ee5258b2bbad71bc7ce3f4fae0c) chore: update deps versions with caret ranges (@T1st3)
+- [c2b8b05](https://github.com/T1st3/famfamfam-flags/commit/c2b8b05c3bfba72d5ca8dab1e697262c0de85c17) chore: replace gulp-minify-css with gulp-cssnano (@T1st3)
+- [ececd5e](https://github.com/T1st3/famfamfam-flags/commit/ececd5e3a1dbaa2db3b95b4270c51b83b988157e) docs: add license docs for JE icon (@T1st3)
+- [de5d968](https://github.com/T1st3/famfamfam-flags/commit/de5d968c19e02b5708c0efb46cba017c9c721965) chore: add @ before Github usernames (@T1st3)
+- [b2ce7cf](https://github.com/T1st3/famfamfam-flags/commit/b2ce7cfbbaf20ca5450e3b9cb3f37ffb5762dca0) docs: add documentation for aliases in README (@T1st3)
+- [d6c7231](https://github.com/T1st3/famfamfam-flags/commit/d6c723189277ca4c0c6642e0f5af503ca8f47a6c) chore: update changelog (@T1st3)
 - [4b872e4](https://github.com/T1st3/famfamfam-flags/commit/4b872e43071bbace63a545be3300d6fbc775349f) chore: rebuild with new aliases (@T1st3)
 - [e067fe5](https://github.com/T1st3/famfamfam-flags/commit/e067fe5c3aa49aff5533478193642fd3aad3a772) fix: add aliases for RE, YT and GP to FR (@T1st3)
 - [72fb1c6](https://github.com/T1st3/famfamfam-flags/commit/72fb1c602a276ce39e10fa75a79f6bb07d5e21e4) fix: remove BL alias (@T1st3)

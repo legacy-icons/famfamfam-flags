@@ -16,7 +16,7 @@ gulp = require('gulp'),
 imagemin = require('gulp-imagemin'),
 rename = require('gulp-rename'),
 replace = require('gulp-replace'),
-minifyCSS = require('gulp-minify-css'),
+cssnano = require('gulp-cssnano'),
 spriteBuilder = require( 'node-spritesheet' ).Builder;
 
 var aliases = {
@@ -65,7 +65,7 @@ gulp.task('sprite', ['build_clean'], function (cb) {
       gulp.src('./dist/sprite/' + pkg.name + '.css')
         .pipe(replace(aliases.buildRegExp(), aliases.getReplacement))
         .pipe(gulp.dest('./dist/sprite'))
-        .pipe(minifyCSS({keepSpecialComments: '*'}))
+        .pipe(cssnano())
         .pipe(rename(pkg.name + '.min.css'))
         .pipe(gulp.dest('./dist/sprite'));
       cb();

@@ -52,12 +52,26 @@ contact damieng@gmail.com.
 License for the `mm` (Myanmar) add-on icon
 ----------
 
-Suggested by [@lucas34](https://github.com/lucas34)
+Suggested by [@lucas34](https://github.com/lucas34).
 
 [https://commons.wikimedia.org/wiki/File:Flag_of_Myanmar-new.jpg](Original flag license):
 
 The copyright holder of this work allows anyone to use it for any purpose including unrestricted redistribution, commercial use, and modification.
 
+
+License for the `je` (Jersey) add-on icon
+----------
+
+Suggested by [@ryankane](https://github.com/ryankane).
+
+[http://en.wikipedia.org/wiki/File:Flag_of_Jersey.svg](Original flag license):
+
+The copyright holder grants anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+
+
+The icon modified by Drew Noakes [@drewnoakes](https://github.com/drewnoakes) before submitting:
+
+See [discussion](https://code.google.com/p/famfamfam/issues/detail?id=1).
 
 
 About the rest (all this repository but the icons)

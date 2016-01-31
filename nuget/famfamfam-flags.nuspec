@@ -2,17 +2,17 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>famfamfam-flags</id>
-    <version>0.4</version>
+    <version>0.5</version>
     <title>Famfamfam-Flags</title>
-    <authors>T1st3</authors>
+    <authors>t1st3</authors>
     <owners>t1st3</owners>
     <description>Famfamfam-Flags, made available in various package managers, shipped with CSS spritesheet</description>
-    <releaseNotes>https://github.com/T1st3/famfamfam-flags/releases</releaseNotes>
+    <releaseNotes>https://github.com/t1st3/famfamfam-flags/releases</releaseNotes>
     <summary>Famfamfam-Flags</summary>
     <language>en-us</language>
-    <projectUrl>https://github.com/T1st3/famfamfam-flags</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/T1st3/famfamfam-flags/master/dist/sprite/famfamfam-flags.png</iconUrl>
-    <licenseUrl>https://github.com/T1st3/famfamfam-flags/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/t1st3/famfamfam-flags</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/t1st3/famfamfam-flags/master/dist/sprite/famfamfam-flags.png</iconUrl>
+    <licenseUrl>https://github.com/t1st3/famfamfam-flags/blob/master/LICENSE.md</licenseUrl>
     <copyright>Copyright 2015</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>

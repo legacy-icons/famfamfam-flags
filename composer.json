@@ -1,6 +1,6 @@
 {
   "name": "t1st3/famfamfam-flags",
-  "homepage": "https://github.com/T1st3/famfamfam-flags",
+  "homepage": "https://github.com/t1st3/famfamfam-flags",
   "description": "FamFamFam Flags icon pack",
   "keywords": [
     "icon",
@@ -13,14 +13,14 @@
   "license": "MIT",
     "authors": [
     {
-      "name": "T1st3",
+      "name": "t1st3",
       "email": "contact@tiste.org",
       "homepage": "http://www.tiste.org/",
       "role": "Maintainer"
     }
   ],
   "support": {
-    "issues": "https://github.com/T1st3/famfamfam-flags/issues/"
+    "issues": "https://github.com/t1st3/famfamfam-flags/issues/"
   },
   "type": "library",
   "extra": {

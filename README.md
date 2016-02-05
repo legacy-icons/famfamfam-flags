@@ -101,6 +101,7 @@ After gulp is installed, and your CLI is pointed to your work directory, first i
 **with NPM 3.x.x** (resolve dependencies for `node-spritesheet` before this module's ones)
 
 > npm install grunt grunt-contrib-coffee grunt-contrib-clean
+
 > npm install
 
 then be sure that you have *[ImageMagick](http://www.imagemagick.org/script/binary-releases.php)* installed for building spritesheet.

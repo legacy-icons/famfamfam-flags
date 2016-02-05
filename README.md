@@ -45,8 +45,8 @@ The project now supports aliases in CSS spritesheets (see below). The feature wa
 
 You can insert the icons directly into your HTML with a common IMG tag:
 
-```
-    <img alt="French Flag" src="dist/png/fr.png" width="16" height="11">
+```html
+<img alt="French Flag" src="dist/png/fr.png" width="16" height="11">
 ```
 
 
@@ -59,8 +59,8 @@ This is what it actually looks:
 
 All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
 
-```
-    <div class="famfamfam-flags fr"></div>
+```html
+<div class="famfamfam-flags fr"></div>
 ```
 
 Just remember to add the CSS stylesheet to the HEAD of your HTML page!

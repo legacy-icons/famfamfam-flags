@@ -1,6 +1,5 @@
-famfamfam-flags
-===============
 
+# famfamfam-flags
 
 [![NPM version](https://img.shields.io/npm/v/famfamfam-flags.svg)](https://www.npmjs.org/package/famfamfam-flags)
 [![Bower version](https://img.shields.io/bower/v/famfamfam-flags.svg)](http://bower.io/search/?q=famfamfam-flags)
@@ -12,8 +11,7 @@ famfamfam-flags
 
 
 
-About
-----------
+## About
 
 The `Flags` icon pack, as available on [famfamfam website](http://www.famfamfam.com/lab/icons/flags/).
 
@@ -30,10 +28,7 @@ The aim of this project is to make this icon pack available through various pack
 All icons are supplied in both PNG and GIF formats.
 
 
-
-
-Extensions and updates
-----------
+## Extensions and updates
 
 A flag has been added to the original package: `gg.png` (or `gg.gif`).
 This flag was created by [Damien Guard (@damieng)](https://github.com/damieng) (damieng@gmail.com), in the "add-on" package for FamFamFam icons named [Silk Companion](http://damieng.com/creative/icons/silk-companion-1-icons).
@@ -46,8 +41,7 @@ This flag was updated by [@Lucas](https://github.com/lucas34), and was created f
 The project now supports aliases in CSS spritesheets (see below). The feature was brought by [@Rangoo94](https://github.com/Rangoo94). For example, `RE` ([Reunion](https://en.wikipedia.org/wiki/.re)) is an alias for `FR` ([France](https://en.wikipedia.org/wiki/.fr)), since Reunion shares the same flag as France. To see the aliases, please check the [aliases.json file](https://github.com/t1st3/famfamfam-flags/blob/master/aliases.json).
 
 
-CSS spritesheets
-----------
+## CSS spritesheets
 
 You can insert the icons directly into your HTML with a common IMG tag:
 
@@ -71,54 +65,30 @@ All the positioning of the icons inside this alone image is made through CSS, wh
 
 Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
+## Install
+
+### NPM
+
+> npm install famfamfam-flags
 
 
-Get the package with NPM
-----------
+### Bower
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-npm install famfamfam-flags
-```
+> bower install famfamfam-flags
 
 
+### Composer / Packagist
 
-Get the package with Bower
-----------
-
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-bower install famfamfam-flags
-```
+> composer require t1st3/famfamfam-flags
 
 
-Get the package with Composer / Packagist
-----------
+### NuGet
 
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-composer require t1st3/famfamfam-flags
-```
-
-
-Get the package with NuGet
-----------
-
-Just run the following on the CLI (provided your CLI is directed to your work directory)
-
-```
-Install-Package famfamfam-flags
-```
+> Install-Package famfamfam-flags
 
 
 
-
-Build (the whole project or your custom project)
-----------
-
+## Build the whole project or your custom project
 
 We use [Gulp](http://gulpjs.com/) to build the project, so if you want to re-build or customize this project, you'll need Gulp.
 
@@ -126,30 +96,21 @@ After gulp is installed, and your CLI is pointed to your work directory, first i
 
 **with NPM 2.x.x**
 
-```
-npm install
-```
+> npm install
 
 **with NPM 3.x.x** (resolve dependencies for `node-spritesheet` before this module's ones)
 
-```
-npm install grunt grunt-contrib-coffee grunt-contrib-clean
-npm install
-```
+> npm install grunt grunt-contrib-coffee grunt-contrib-clean
+> npm install
 
 then be sure that you have *[ImageMagick](http://www.imagemagick.org/script/binary-releases.php)* installed for building spritesheet.
 
 then, you can run the `gulp build` task to build the project:
 
-
-```
-gulp build
-```
+> gulp build
 
 
-
-
-**What the build task does?**
+### What the build task does?
 
 First, it takes PNG and GIF files from the `src` folder, and tidies them to the `dist` folder.
 
@@ -161,8 +122,6 @@ empty the `src` directory, except `fr` and `gg` icons in PNG format, and then ru
 You'll get the proper spritesheet and copies of the icons directly in the `dist` folder.
 
 
-
-License
-------------
+## License
 
 See [License](https://github.com/t1st3/famfamfam-flags/blob/master/LICENSE.md)

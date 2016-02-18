@@ -1,6 +1,6 @@
 {
-  "name": "t1st3/famfamfam-flags",
-  "homepage": "https://github.com/t1st3/famfamfam-flags",
+  "name": "legacy-icons/famfamfam-flags",
+  "homepage": "https://github.com/legacy-icons/famfamfam-flags",
   "description": "FamFamFam Flags icon pack",
   "keywords": [
     "icon",
@@ -20,7 +20,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/t1st3/famfamfam-flags/issues/"
+    "issues": "https://github.com/legacy-icons/famfamfam-flags/issues/"
   },
   "type": "library",
   "extra": {

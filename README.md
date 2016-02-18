@@ -3,11 +3,11 @@
 
 [![NPM version](https://img.shields.io/npm/v/famfamfam-flags.svg)](https://www.npmjs.org/package/famfamfam-flags)
 [![Bower version](https://img.shields.io/bower/v/famfamfam-flags.svg)](http://bower.io/search/?q=famfamfam-flags)
-[![Packagist version](https://img.shields.io/packagist/v/t1st3/famfamfam-flags.svg)](https://packagist.org/packages/t1st3/famfamfam-flags)
+[![Packagist version](https://img.shields.io/packagist/v/legacy-icons/famfamfam-flags.svg)](https://packagist.org/packages/legacy-icons/famfamfam-flags)
 [![Nuget version](https://img.shields.io/nuget/v/famfamfam-flags.svg)](https://www.nuget.org/packages/famfamfam-flags/)
 
-[![Dependency Status](https://img.shields.io/david/dev/t1st3/famfamfam-flags.svg)](https://david-dm.org/t1st3/famfamfam-flags)
-[![Build Status](https://img.shields.io/travis/t1st3/famfamfam-flags.svg)](https://travis-ci.org/t1st3/famfamfam-flags)
+[![Dependency Status](https://img.shields.io/david/dev/legacy-icons/famfamfam-flags.svg)](https://david-dm.org/legacy-icons/famfamfam-flags)
+[![Build Status](https://img.shields.io/travis/legacy-icons/famfamfam-flags.svg)](https://travis-ci.org/legacy-icons/famfamfam-flags)
 
 
 
@@ -38,7 +38,7 @@ The flag for Myanmar has been updated: `mm.png` (or `mm.gif`).
 This flag was updated by [@Lucas](https://github.com/lucas34), and was created from [Wikipedia](https://commons.wikimedia.org/wiki/File:Flag_of_Myanmar-new.jpg).
 
 
-The project now supports aliases in CSS spritesheets (see below). The feature was brought by [@Rangoo94](https://github.com/Rangoo94). For example, `RE` ([Reunion](https://en.wikipedia.org/wiki/.re)) is an alias for `FR` ([France](https://en.wikipedia.org/wiki/.fr)), since Reunion shares the same flag as France. To see the aliases, please check the [aliases.json file](https://github.com/t1st3/famfamfam-flags/blob/master/aliases.json).
+The project now supports aliases in CSS spritesheets (see below). The feature was brought by [@Rangoo94](https://github.com/Rangoo94). For example, `RE` ([Reunion](https://en.wikipedia.org/wiki/.re)) is an alias for `FR` ([France](https://en.wikipedia.org/wiki/.fr)), since Reunion shares the same flag as France. To see the aliases, please check the [aliases.json file](https://github.com/legacy-icons/famfamfam-flags/blob/master/aliases.json).
 
 
 ## CSS spritesheets
@@ -54,7 +54,7 @@ In addition to the icons by themselves, this project also ships a CSS spriteshee
 
 This is what it actually looks:
 
-![Spritesheet](https://raw.githubusercontent.com/t1st3/famfamfam-flags/master/dist/sprite/famfamfam-flags.png)
+![Spritesheet](https://raw.githubusercontent.com/legacy-icons/famfamfam-flags/master/dist/sprite/famfamfam-flags.png)
 
 
 All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
@@ -79,7 +79,7 @@ Just remember to add the CSS stylesheet to the HEAD of your HTML page!
 
 ### Composer / Packagist
 
-> composer require t1st3/famfamfam-flags
+> composer require legacy-icons/famfamfam-flags
 
 
 ### NuGet
@@ -125,4 +125,4 @@ You'll get the proper spritesheet and copies of the icons directly in the `dist`
 
 ## License
 
-See [License](https://github.com/t1st3/famfamfam-flags/blob/master/LICENSE.md)
+See [License](https://github.com/legacy-icons/famfamfam-flags/blob/master/LICENSE.md)

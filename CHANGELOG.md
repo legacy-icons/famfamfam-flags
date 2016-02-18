@@ -1,6 +1,7 @@
 ## Change Log
 
-### 0.5.1 (2016/02/15 09:41 +00:00)
+### 0.5.1 (2016/02/15 09:42 +00:00)
+- [37efc40](https://github.com/legacy-icons/famfamfam-flags/commit/37efc40be0563d2bb1be65e6ee6ef3a5a10e499d) chore: v0.5.1 (@t1st3)
 - [#20](https://github.com/legacy-icons/famfamfam-flags/pull/20) chore(package): update gulp-cssnano to version 2.1.1 (@t1st3)
 - [ba06931](https://github.com/legacy-icons/famfamfam-flags/commit/ba06931a869f1823368c0bd8795cc5c943776d89) chore(package): update gulp-cssnano to version 2.1.1 (@greenkeeperio-bot)
 - [#19](https://github.com/legacy-icons/famfamfam-flags/pull/19) chore(package): update gulp to version 3.9.1 (@t1st3)
